@@ -20,9 +20,9 @@ body {
   text-transform: capitalize;
 }
 
-.hidden {
+/* .hidden {
   display: none;
-}
+} */
 
 .section-title {
   font-weight: 700;
@@ -72,6 +72,7 @@ body {
 /* hero */
 .hero {
   background-color: #2e2f42;
+  text-align: center;
 }
 
 .hero-title {
@@ -87,7 +88,6 @@ body {
   font-weight: 500;
   letter-spacing: 0.04em;
   cursor: pointer;
-  border: none;
   text-transform: capitalize;
   background-color: #4d5ae5;
   color: #ffffff;
@@ -150,7 +150,6 @@ body {
   font-size: 18px;
   line-height: 1.17;
   color: #4d5ae5;
-
   letter-spacing: 0.03em;
 }
 
